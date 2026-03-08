@@ -67,5 +67,4 @@ Data Analyst | Business-Focused Problem Solver
 
 Skilled in **Python, SQL, Excel, and Power BI**
 
-🔗 LinkedIn: https://ng.linkedin.com/in/dorcas-oyatowo-36a01225ba (Dorcas Oyatowo)**
-Aspiring Data Analyst | Data Science Lea
+🔗 LinkedIn: https://ng.linkedin.com/in/dorcas-oyatowo-36a01225ba
